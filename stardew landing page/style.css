@@ -1,0 +1,12 @@
+h1,p{
+    text-align: center;
+}
+
+h1{
+    color:blue; 
+}
+
+.red{
+    color: rgb(216, 39, 26);
+    font-weight: bold;
+}
